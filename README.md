@@ -1,2 +1,1 @@
-# LLM-Project
-Mini Project
+# LLM_Based_Enterprise_Memory_and_Context_Agent
